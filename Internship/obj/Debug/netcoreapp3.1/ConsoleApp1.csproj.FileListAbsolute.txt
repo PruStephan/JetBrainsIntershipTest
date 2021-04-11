@@ -1,0 +1,12 @@
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.deps.json
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.json
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.runtimeconfig.dev.json
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/bin/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csprojAssemblyReference.cache
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.AssemblyInfo.cs
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.dll
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.pdb
+/Users/stephan/RiderProjects/JetBrainsInternship/ConsoleApp1/obj/Debug/netcoreapp3.1/ConsoleApp1.genruntimeconfig.cache
